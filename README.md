@@ -1,5 +1,5 @@
 ### Hi there, I'm Santiago 👋
-## Thank's for taking a look at my profile 👀
+## Feel totally free to take a look 👀
 
 - 🔭 I’m currently studying Software Engineering
 
