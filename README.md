@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Santiago 👋
+## Thank's for takink a look at my profile 👀
+
+- 🔭 I’m currently studying Software Engineering
 
 <!--
 **santiagojaralopez/santiagojaralopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
