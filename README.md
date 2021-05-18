@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently studying Software Engineering
 
+<img src="https://github-readme-stats.vercel.app/api?username=santiagojaralopez&&show_icons=true&title_color=ffffff&icon_color=fff&text_color=daf7dc&bg_color=191919">
+
 <!--
 **santiagojaralopez/santiagojaralopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
