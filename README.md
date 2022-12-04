@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently studying **Software Engineering**<br><br>- 🌱 I’m currently learning **Express, MongoDB and AWS**<br><br>- 📫 How to reach me **santiagojaralopez@gmail.com**</p>
+- 🔭 I’m currently studying **Software Engineering**
+- 🌱 I’m currently learning **Express, MongoDB and AWS**
+- 📫 How to reach me **santiagojaralopez@gmail.com**
 
 ###
 
