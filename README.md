@@ -40,4 +40,4 @@
 
 <br clear="both">
 
-
+![Snake animation](https://github.com/santiagojaralopez/santiagojaralopez/blob/output/github-contribution-grid-snake.svg)
