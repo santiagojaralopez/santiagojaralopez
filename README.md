@@ -7,7 +7,7 @@
 ###
 
 - 🔭 I’m currently studying **Software Engineering**
-- 🌱 I’m currently learning **Express, MongoDB and AWS**
+- 🌱 I’m currently learning **Express, MongoDB**
 - 📫 How to reach me **santiagojaralopez@gmail.com**
 
 ###
