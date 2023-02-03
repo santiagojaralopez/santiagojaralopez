@@ -7,6 +7,7 @@
 ###
 
 - 🔭 I’m currently studying **Software Engineering**
+- 🌱 I’m currently learning **AWS**
 - 📫 How to reach me **santiagojaralopez@gmail.com**
 
 ###
