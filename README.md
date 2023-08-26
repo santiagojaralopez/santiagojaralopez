@@ -7,7 +7,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently studying Software Engineering at the university<br>🌱 I’m currently learning React<br>💬 Ask me about Backend Development and AWS Cloud<br>📫 How to reach me -> santiagojaralopez@gmail.com<br>👨‍💻 All of my projects are available here!
+🔭 I’m currently studying Software Engineering<br>🌱 I’m currently learning React<br>💬 Ask me about Backend Development and AWS Cloud<br>📫 How to reach me -> santiagojaralopez@gmail.com<br>👨‍💻 All of my projects are available here!
 
 
 ## 🌐 Socials:
