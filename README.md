@@ -2,12 +2,12 @@
 
 ###
 
-<h3 align="left">A passionate Software Engineering student from Colombia</h3>
+<h3 align="left">A passionate Software Engineer from Colombia</h3>
 
 ###
 
 # 💫 About Me:
-🔭 I’m currently studying Software Engineering<br>🌱 Working as CTO at <a href="https://www.parzik.com/" target="_blank">Parzik</a><br>💬 Ask me about Backend Development and AWS Cloud<br>📫 How to reach me -> santiagojaralopez@gmail.com<br>👨‍💻 All of my projects are available here!
+🔭 Software Architecture and Web Development teacher at <a href="https://www.https://unihumboldt.edu.co/" target="_blank">UniHumboldt</a><br>🌱 CEO at <a href="https://www.parzik.com/" target="_blank">Parzik</a> and CTO at <a href="https://www.https://https://www.andesagroup.com/" target="_blank">Andesa Group SAS</a><br>💬 Ask me about Backend Development and AWS Cloud<br>📫 How to reach me -> santiagojaralopez@gmail.com<br>👨‍💻 All of my projects are available here!
 
 
 ## 🌐 Socials:
