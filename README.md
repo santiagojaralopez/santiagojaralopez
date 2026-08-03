@@ -7,7 +7,10 @@
 ###
 
 # 💫 About Me:
-🔭 Software Architecture and Web Development teacher at <a href="https://www.https://unihumboldt.edu.co" target="_blank">UniHumboldt</a><br>🌱 CEO at <a href="https://www.parzik.com" target="_blank">Parzik</a> and CTO at <a href="https://www.andesagroup.com" target="_blank">Andesa Group SAS</a><br>💬 Ask me about Backend Development and AWS Cloud<br>📫 How to reach me -> santiagojaralopez@gmail.com<br>👨‍💻 All of my projects are available here!
+👨🏻‍💻 Fullstack Developer at <a href="https://www.forjaanalytics.com/en/" target="_blank">Forja Analytics</a><br>
+🔭 Software Architecture teacher at <a href="https://www.https://unihumboldt.edu.co" target="_blank">UniHumboldt</a><br>
+🌱 CEO at <a href="https://www.parzik.com" target="_blank">Parzik</a> and CTO at <a href="https://www.andesagroup.com" target="_blank">Andesa Group SAS</a><br>
+📚 Specializing in AI at <a href="https://www.autonoma.edu.co/" target="_blank">Universidad Atónoma de Manizales</a><br>
 
 
 ## 🌐 Socials:
