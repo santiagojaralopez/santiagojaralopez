@@ -8,7 +8,8 @@
 
 # 💫 About Me:
 🔭 Software Architecture teacher at <a href="https://www.https://unihumboldt.edu.co" target="_blank">UniHumboldt</a><br>
-🌱 CEO at <a href="https://www.parzik.com" target="_blank">Parzik</a> and CTO at <a href="https://www.andesagroup.com" target="_blank">Andesa Group SAS</a><br>
+🌱 CEO at <a href="https://www.andesagroup.com" target="_blank">Andesa Group SAS</a><br>
+🔋 CTO at <a href="https://www.radyant.com.co" target="_blank">Radyant</a><br>
 📚 Specializing in AI at <a href="https://www.autonoma.edu.co/" target="_blank">Universidad Atónoma de Manizales</a><br>
 
 
